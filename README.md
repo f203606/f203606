@@ -1,93 +1,120 @@
-<!-- ===================================================== -->
-<!--                🚀 GITHUB PROFILE README 🚀            -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# 🚀 Olá, eu sou o André!
+# ⚡ André
 
-```text
-      █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗
-     ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝
-     ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗
-     ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝
-     ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗
-     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
+### `> Professor de Tecnologia em construção // transformando curiosidade em conhecimento`
 
-### 💻 Transformando curiosidade em conhecimento.
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700" alt="Cyber Terminal"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Professor+de+Tecnologia+em+construção...;Apaixonado+por+Tecnologia;Sempre+aprendendo...;Sempre+ensinando..." />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Andre&color=00e5ff&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Andre?style=for-the-badge&color=7B68EE)
-![GitHub Stars](https://img.shields.io/github/stars/Andre?affiliations=OWNER&style=for-the-badge&color=FFD43B)
+![Brasil](https://img.shields.io/badge/Brasil-00FF7F?style=for-the-badge&logo=googleearth&logoColor=black&labelColor=111111)
+![Professor](https://img.shields.io/badge/Professor%20de%20Tecnologia-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=111111)
+![Always Learning](https://img.shields.io/badge/Always-Learning-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=111111)
 
 </div>
 
 ---
 
-# ⚡ Terminal
+```text
+███████████████████████████████████████████████
+█  SYSTEM STATUS............................OK █
+█  PROFILE.............................ONLINE █
+█  MODE...............................LEARNING █
+███████████████████████████████████████████████
+```
+
+# 👋 Sobre mim
+
+Olá! Eu sou **André**.
+
+Gosto de tecnologia, de aprender coisas novas e, principalmente, de compartilhar conhecimento.
+
+Estou construindo minha jornada para atuar como **Professor de Tecnologia**, estudando desenvolvimento moderno e transformando cada aprendizado em algo que possa ensinar para outras pessoas.
+
+Quando não estou estudando ou programando, meu melhor projeto é aproveitar cada momento com minhas filhas. ❤️
+
+---
+
+▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
+
+# 🚀 Tecnologias & Estudos
+
+## 💻 Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111)
+
+## ⚛️ Front-end
+
+![React](https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=111111&labelColor=111111)
+
+## ⚙️ Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=111111&labelColor=111111)
+
+## 📚 Atualmente focado em
+
+- 🐍 Python
+- ⚡ JavaScript moderno
+- ⚛️ React
+- 🚀 Node.js
+
+---
+
+▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
+
+# 🛰️ O que eu faço
+
+- 👨‍🏫 Estudo para ensinar tecnologia de forma simples.
+- 💻 Desenvolvo projetos para aprender na prática.
+- 📚 Estou sempre explorando novas ferramentas.
+- 🤝 Compartilho conhecimento sempre que posso.
+- 👨‍👧‍👧 Invisto tempo no que mais importa: minha família.
+
+---
+
+▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
+
+# 🎯 Objetivo
 
 ```bash
-andre@github:~$ whoami
+$ cargo_desejado
 
-Nome..............: André
-Objetivo..........: Professor de Tecnologia
-País..............: Brasil 🇧🇷
-Missão............: Aprender, compartilhar e evoluir.
-Status............: Em constante atualização...
+> Professor de Tecnologia
+```
+
+Busco oportunidades onde eu possa unir **tecnologia**, **aprendizado contínuo** e **ensino**, ajudando outras pessoas a crescerem enquanto continuo evoluindo como profissional.
+
+---
+
+▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
+
+# ⚙️ Filosofia
+
+```python
+while True:
+    aprender()
+    praticar()
+    ensinar()
 ```
 
 ---
 
-# 👨‍💻 Sobre mim
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ ✔ Adoro tecnologia                                  │
-│ ✔ Gosto de aprender coisas novas                    │
-│ ✔ Ensinar faz parte da minha missão                 │
-│ ✔ Acredito que conhecimento cresce quando é dividido│
-│ ✔ Meu maior combustível: minhas filhas ❤️           │
-└──────────────────────────────────────────────────────┘
-```
-
-> "Cada nova tecnologia aprendida é uma oportunidade de ensinar alguém."
-
----
-
-# 🚀 Atualmente estudando
+▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚡ "// compiling dreams into production..."
 
 </div>
 
 ---
 
-# 🛰️ Stack em construção
+# 🔗 Links das badges (Shields.io)
 
-```text
-Python        ███████████░░░░░░░ 60%
-
-JavaScript    █████████░░░░░░░░░ 50%
-
-React         ███████░░░░░░░░░░░ 40%
-
-Node.js       ███████░░░░░░░░░░░ 40%
-```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](
+- https://img.shields.io/badge/Brasil-00FF7F?style=for-the-badge&logo=googleearth&logoColor=black&labelColor=111111
+- https://img.shields.io/badge/Professor%20de%20Tecnologia-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=111111
+- https://img.shields.io/badge/Always-Learning-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=111111
+- https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111
+- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111
+- https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=111111&labelColor=111111
+- https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=111111&labelColor=111111
